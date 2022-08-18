@@ -1,5 +1,5 @@
 server:
-  port: ${PORT:9999}
+  port: 8082
 
 url_dnrpa: https://www.dnrpa.gov.ar/portal_dnrpa
 catalogo_maquina_maximo: 650
